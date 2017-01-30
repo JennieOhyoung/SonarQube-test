@@ -9,7 +9,6 @@ addons:
         secure: "bmNMywZmaEX0J3n3w62t4knBlEy2VcLQQ3gg4q2JvH9DhIwg9aJZCsPAZI+VJp/SWvECzj7OAnTfo2LKgdONQEspPjp+6X+eJHVnijIKRFb33w6BUcju3oOUiGSUv7ODHsu1tzk27dIsxAJoLad29mmSnpchb9AxSGlsuL+Z54//q22cHimEu242eQZ9XbF7JQJNahYKYVurDj1TaTvyp1uMimcHdzuHoMopZzFno71NTamhXWh+XxJq6ScbVa2Z4+0+LtQWMU3aIzESR6ni8QQ+F3dMjv5OarRHDHlS3qmGyuJfd6TcPD3E5dpOcp/bjAbqUYNrqijUa/uow1gWiIi8RdLBG3/N+igTgJdv2alPwf2kyqJkg/uGxC4rJmTUoNMrmZ31ZtOFCCfWcbc5m0Wcx/bwJQNkyU/ExOJHPQJfYeSBYOd3BmherbW8b89hoD/AQZJzvGZ1cCffbuHVGag/ATcNTBgSjcdyJuJdSulmLRkctVrnqkDR7hLZ+wsUzqEwbTrzc/beIhHcqWsH5iVRSuc3FwKeN+owsWvlW+X5lyWnhYqy4iJ/IwFTVxkGyHAQXpa8rV6QNv0W8aKHu0hhzRxUZ1aPG1dz9ZtrC1NqZDmbHnc+XlqJC0/jcGED0Ongmbl1LY08qQinvNWWBeXntFS2ZmRXScFUlQW19TI="
   branches:
       - master
-      - feature
 jdk:
   - oraclejdk8
 script:
