@@ -4,7 +4,7 @@ sudo: required
 addons:
   sonarqube:
     token:
-      secure: "your_token_encrypted_with_travis_encrypt_tool"
+      secure: "Awsl5TV1OG8M+JinBj/kOfQHepsWnHnNsUE/MkOh9Q4UL6Hqu/oYV37AgWTc3WxV2mjF9J0kvgVN9X8Gx343enb0HfXw4v8b7UvRtFPTmGNryenpKS2Fwj/04yMgbJmuxip+bV+7TP0Nh7ri8p1frrCflMAQae6itdBB0w2FYqAsvRSixVCD41wdsr7gFTzRRgST9F4j4tas+nHWwkNESJWI7JbaWa9sGqhb9mvRmuvXpAwMzFCxiljWf/61Ye1KvvkmESJ/glTOJ5q82e9FD9oU0wqjUhVJa+bxCCuhu08zRilJh3Vajmamhc2SlegR6CvbnLqkX4aKbWLfIKqoXJ93WoTHKSZXxyscDeXkbW8easvuzuWmF3FFGvsdyp/gmY5sza4AypU/v1l54fArDMbafDal9zcieB5+VffXgXCAixs8K0zayU8o0zmLPijbmTnEuDwCCA0NySkNYbnZu5nfwsexNWVBuvk2d0bKSgGycZMJHJsW2dc2Zd13aNguQXqf8Un2va8I+ERn96uaIF5XjhIuJRZpjo81ZNV6q/PxTIEY6RFuxY1U4QEtA6kUfpQW3zxesCI3VKtT/L0+akc3JT797xTu+6WROneE3b/WCEZT3RdhE/AGj4OcMn4Y2STEbDY+vQ4FkfKdriyzAn0H2jPnal2psrur12oQJO0="
 jdk:
   - oraclejdk8
 script:
